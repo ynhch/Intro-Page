@@ -23,3 +23,15 @@ I played a lot of pokemon so that was cool [:D](pokemon.jfif)
 Baseball is another sport I like to watch
 
 ![This is an image](https://tse4.mm.bing.net/th?id=OIP.xo1nckQWXFAHUZIgGQxa_QHaE8&pid=Api&P=0&w=242&h=162)
+
+
+**bucket list**
+- []graduate
+- [] parachuting
+- [x] eat a costco pizza
+
+To do list:
+1. Get milk
+2. Get eggs
+3. Get a job
+
