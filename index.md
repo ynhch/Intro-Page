@@ -1,6 +1,6 @@
 ### Yunha Choi ###
 
-**is a fun dude**
+**UCSD Student**
 
 -- likes to ride a bike, although not so much since I have a car now--
 
@@ -19,3 +19,7 @@ git push
 This site is really cool [UCSD Homepage] (https://ucsd.edu/)
 
 I played a lot of pokemon so that was cool [:D](pokemon.jfif)
+
+Baseball is another sport I like to watch
+
+![This is an image](https://tse4.mm.bing.net/th?id=OIP.xo1nckQWXFAHUZIgGQxa_QHaE8&pid=Api&P=0&w=242&h=162)
