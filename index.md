@@ -26,8 +26,8 @@ Baseball is another sport I like to watch
 
 
 **bucket list**
-- []graduate
-- [] parachuting
+- [ ]graduate
+- [ ] parachuting
 - [x] eat a costco pizza
 
 To do list:
