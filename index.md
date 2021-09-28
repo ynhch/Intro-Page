@@ -18,3 +18,4 @@ git push
 
 This site is really cool [UCSD Homepage] (https://ucsd.edu/)
 
+I played a lot of pokemon so that was cool [:D](pokemon.jfif)
